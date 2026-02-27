@@ -7,4 +7,6 @@ Sample Experiments for C programming from S2 CSE
 + 2.c - check if a given no is odd or even
 
 + 3.c - check if a given no is a prime no
+
++ 4.c - check if a given no is a strong no
 ```
