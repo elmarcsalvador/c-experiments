@@ -11,4 +11,6 @@ Sample Experiments for C programming from S2 CSE
 + 4.c - check if a given no is a strong no
 
 + 5.c - To find the roots of a given quadratic equation
+
++ 6.c - display the fibonacci series till given no n.
 ```
