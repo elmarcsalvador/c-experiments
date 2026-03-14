@@ -4,7 +4,7 @@ void main(){
     int n,a=0,b=1,c;
     printf("Enter a no: \n");
     scanf("%d", &n);
-    printf("Fibonnaci Series\n");
+    printf("Fibonacci Series\n");
 
     while(a <= n){
         printf("%d ",a);
