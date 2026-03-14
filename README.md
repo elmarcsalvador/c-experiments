@@ -13,4 +13,6 @@ Sample Experiments for C programming from S2 CSE
 + 5.c - To find the roots of a given quadratic equation
 
 + 6.c - display the fibonacci series till given no n.
+
++ 7.c - to check if a given no is armstrong or not using functions
 ```
