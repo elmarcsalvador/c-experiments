@@ -15,4 +15,6 @@ Sample Experiments for C programming from S2 CSE
 + 6.c - display the fibonacci series till given no n.
 
 + 7.c - to check if a given no is armstrong or not using functions
+
++ 8.c - to find the factorial of a given no using recursion.
 ```
