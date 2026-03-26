@@ -21,4 +21,6 @@ Sample Experiments for C programming from S2 CSE
 + 9.c - to search for a given element in an array.
 
 + 10.c - to check if a string is palindrome or not.
+
++ 11.c - matrix multiplication using arrays.
 ```
