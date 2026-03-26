@@ -1,6 +1,6 @@
-//to search for a given element in an aay
+//to search for a given element in an array
 #include <stdio.h>
-int main(){
+void main(){
     int n, i, q, flag = 0;
     int a[10];
 
@@ -26,5 +26,4 @@ int main(){
     if(!flag){
         printf("Element not found");
     }
-    return 0;
 }

@@ -19,4 +19,6 @@ Sample Experiments for C programming from S2 CSE
 + 8.c - to find the factorial of a given no using recursion.
 
 + 9.c - to search for a given element in an array.
+
++ 10.c - to check if a string is palindrome or not.
 ```
