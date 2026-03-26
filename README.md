@@ -17,4 +17,6 @@ Sample Experiments for C programming from S2 CSE
 + 7.c - to check if a given no is armstrong or not using functions
 
 + 8.c - to find the factorial of a given no using recursion.
+
++ 9.c - to search for a given element in an array.
 ```
